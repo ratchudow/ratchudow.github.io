@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ratchudow.github.io/sitemap.html.gz
+Sitemap: https://ratchudow.github.io/app/sitemap.html.gz
+Sitemap: https://ratchudow.github.io/assets/sitemap.html.gz
+Sitemap: https://ratchudow.github.io/css/sitemap.html.gz
+Sitemap: https://ratchudow.github.io/includes/sitemap.html.gz
+Sitemap: https://ratchudow.github.io/item/sitemap.html.gz
+Sitemap: https://ratchudow.github.io/src/sitemap.html.gz
